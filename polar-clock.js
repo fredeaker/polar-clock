@@ -2,8 +2,8 @@
 Polar Clock (polar-clock.js)
 Version 2012.08.05.0900
 By Fred Eaker <fredeaker@gmail.com>
-Licensed under Creative Commons Attribution 3.0 Unported (CC BY 3.0)
-http://creativecommons.org/licenses/by/3.0/
+Licensed under GNU General Public License v3.0
+https://www.gnu.org/licenses/gpl-3.0.en.html
 ----------------------------------------------------------------------------- */
 
 // HTML element should have an id of "polar-clock"
