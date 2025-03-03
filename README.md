@@ -1,5 +1,7 @@
 # polar-clock
-Minimalist polar clock implemnetation with vanilla JavaScript.
+Minimalist polar clock with vanilla JavaScript.
+
+Production implementation here: [fredeaker.com/polar-clock/](https://fredeaker.com/polar-clock/)
 
 The original polar clock design is attributed to Gabriel Bucknall.
 
